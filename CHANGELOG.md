@@ -1,4 +1,6 @@
-## [1.0.20](https://github.com/dserebryakova/study_2024-2025_os-intro/compare/v1.0.15...v1.0.20) (2025-03-15)
+## [1.0.6](https://github.com/dserebryakova/study_2024-2025_os-intro/compare/v1.0.20...v1.0.6) (2025-03-16)
+
+
 
 
 
