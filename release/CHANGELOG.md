@@ -1,4 +1,9 @@
+## [1.1.7](https://github.com/dserebryakova/study_2024-2025_os-intro/compare/v1.1.4...v1.1.7) (2025-03-17)
+
+
+
 ## [1.1.4](https://github.com/dserebryakova/study_2024-2025_os-intro/compare/v1.1.3...v1.1.4) (2025-03-17)
+
 
 ### Features
 
